@@ -25,8 +25,7 @@ A full-stack web application that allows users to **track their daily expenses**
 
 ---
 
-## 🌐 Live Website
+## 🌐Screenshots 
 
-🔗 [https://your-deployment-link.com](https://your-deployment-link.com)  
-*(Replace with your actual deployment link)*
+
 
